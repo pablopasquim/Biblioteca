@@ -1,2 +1,2 @@
 # Biblioteca
-Sistema de Gestão de Biblioteca em Kotlin utilizando POO
+Local de Treinamento do curso.dev
